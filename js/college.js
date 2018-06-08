@@ -48,16 +48,16 @@ form.addEventListener('submit', (e) => {
                 totalClg++;
 
                 let branches = branchArray.map((item) => {
-                    return `<li>${item}</li>`;
+                    return `<li class='branch'>${item}</li>`;
                 }).join('');
 
                 cards.innerHTML += `
                     <div class="card">
                         <span class="clg-name"> ${clgName} </span>
                         <div class="clg-branches">
-                            <ul>
+                            <ol class='branchList'>
                                ${branches}
-                            </ul>
+                            </ol>
                         </div>
                         <img src="https://${colArray[i][2]}" height="300" width="200">
                         <a href='${colArray[i][3]}' target='_blank'> 
