@@ -1,15 +1,21 @@
 /* RESET */
 * { margin: 0px; padding: 0px; }
 
+/* Form styling */
+#form {
+    position: fixed;
+}
+
 /* Cards styling */
 .cards {
-    height: 600px;
-    width: 50%;
+    height: auto;
+    width: 500px;
     left: 50%;
-    transform: translate(50%);
+    position: absolute;
+    transform: translate(-50%);
 }
 .card {
-    width: 400px;
+    width: auto;
     height: auto;
     box-shadow: 0px 2px 18px 0px grey;
     border-radius: 4px;
