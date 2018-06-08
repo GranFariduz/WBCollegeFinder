@@ -74,13 +74,13 @@ form.addEventListener('submit', (e) => {
             alert(`We found ${totalClg} result(s) pertaining to your rank`);
         }
             
-            }).catch((err) => {
-                console.log(err);
-            })
+        }).catch((err) => {
+            console.log(err);
+        })
 
-        }else { alert('Please enter a valid rank'); }
+    }else { alert('Please enter a valid rank'); }
 
-        });
+});
 
 
         
