@@ -1,0 +1,221 @@
+{
+    "colleges": [
+        [
+            "Bidhan Chandra Krishi Viswa Vidyalaya",
+            [
+                {
+                    "branch": "Agricultural Engineering",
+                    "gen_or": "1112",
+                    "gen_cr": "5110",
+                    "obc_or": "11042",
+                    "obc_cr": "13564"
+                }
+            ],
+            "static-collegedunia.com/public/college_data/images/appImage/26008_JADAV_New.jpg",
+            "https://www.google.com/maps/place/Bidhan+Chandra+Krishi+Viswavidyalaya/@22.9452453,88.5335715,15z/data=!4m5!3m4!1s0x0:0xa13e16b49259cb3a!8m2!3d22.9452453!4d88.5335715"
+        ],
+        [
+            "Department Of Jute And Fibre Technology, Calcutta University",
+            [
+                {
+                    "branch": "Jute & Fibre Technology",
+                    "gen_or": "5475",
+                    "gen_cr": "17807",
+                    "obc_or": "19448",
+                    "obc_cr": "28277"
+                }
+            ],
+            "static-collegedunia.com/public/college_data/images/appImage/26008_JADAV_New.jpg",
+            "https://www.google.co.in/maps/place/Jadavpur+University+Salt+Lake+Campus"
+        ],
+        [
+            "Jadavpur University",
+            [
+                {
+                    "branch": "Architecture",
+                    "gen_or": "1170",
+                    "gen_cr": "5217",
+                    "obc_or": "11918",
+                    "obc_cr": "22764"
+                },
+                {
+                    "branch": "B.Pharm/Pharmaceutical Technology",
+                    "gen_or": "792",
+                    "gen_cr": "4222",
+                    "obc_or": "4490",
+                    "obc_cr": "6536"
+                },
+                {
+                    "branch": "Chemical Engineering",
+                    "gen_or": "368",
+                    "gen_cr": "915",
+                    "obc_or": "3585",
+                    "obc_cr": "6105"
+                },
+                {
+                    "branch": "Civil Engineering",
+                    "gen_or": "608",
+                    "gen_cr": "1009",
+                    "obc_or": "1730",
+                    "obc_cr": "6411"
+                },
+                {
+                    "branch": "Computer Science & Engineering/Computer Science & Technology",
+                    "gen_or": "6",
+                    "gen_cr": "153",
+                    "obc_or": "154",
+                    "obc_cr": "784"
+                },
+                {
+                    "branch": "Construction Engineering",
+                    "gen_or": "971",
+                    "gen_cr": "1553",
+                    "obc_or": "8475",
+                    "obc_cr": "9145"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "96",
+                    "gen_cr": "508",    
+                    "obc_or": "1160",
+                    "obc_cr": "3354"
+                },
+                {
+                    "branch": "Electronics & Communication Engineering",
+                    "gen_or": "7",
+                    "gen_cr": "255",    
+                    "obc_or": "507",
+                    "obc_cr": "1450"
+                },
+                {
+                    "branch": "Food Technology And Bio Chemical Engineering",
+                    "gen_or": "1144",
+                    "gen_cr": "2168",    
+                    "obc_or": "6115",
+                    "obc_cr": "7850"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "179",
+                    "gen_cr": "536",    
+                    "obc_or": "1642",
+                    "obc_cr": "3519"
+                },
+                {
+                    "branch": "Instrumentation Engineering",
+                    "gen_or": "555",
+                    "gen_cr": "745",    
+                    "obc_or": "3570",
+                    "obc_cr": "4977"
+                },
+                {
+                    "branch": "Mechanical Engineering",
+                    "gen_or": "73",
+                    "gen_cr": "627",    
+                    "obc_or": "1364",
+                    "obc_cr": "4406"
+                },
+                {
+                    "branch": "Metallurgical Engineering",
+                    "gen_or": "717",
+                    "gen_cr": "1130",    
+                    "obc_or": "5532",
+                    "obc_cr": "7088"
+                },
+                {
+                    "branch": "Power Engineering/Power Plant Engineering",
+                    "gen_or": "841",
+                    "gen_cr": "1531",    
+                    "obc_or": "7087",
+                    "obc_cr": "7941"
+                },
+                {
+                    "branch": "Printing Engineering/Printing Technology",
+                    "gen_or": "1555",
+                    "gen_cr": "2328",    
+                    "obc_or": "11399",
+                    "obc_cr": "14307"
+                },
+                {
+                    "branch": "Production Engineering",
+                    "gen_or": "640",
+                    "gen_cr": "1133",    
+                    "obc_or": "5330",
+                    "obc_cr": "7178"
+                }
+            ],
+            "static-collegedunia.com/public/college_data/images/appImage/26008_JADAV_New.jpg",
+            "https://www.google.co.in/maps/place/Jadavpur+University+Salt+Lake+Campus"
+        ],
+        [
+            "Maulana Abul Kalam Azad University Of Technology, West Bengal",
+            [
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "959",
+                    "gen_cr": "2232",
+                    "obc_or": "4305",
+                    "obc_cr": "6858"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "1583",
+                    "gen_cr": "3421",
+                    "obc_or": "9060",
+                    "obc_cr": "11449"
+                }
+            ],
+            "static-collegedunia.com/public/college_data/images/appImage/26008_JADAV_New.jpg",
+            "https://www.google.co.in/maps/place/Jadavpur+University+Salt+Lake+Campus"
+        ],
+        [
+            "University Institute Of Technology, Burdwan (Self Financing Course)",
+            [
+                {
+                    "branch": "Applied Electronics & Instrumentation Engineering",
+                    "gen_or": "4347",
+                    "gen_cr": "17167",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Civil Engineering",
+                    "gen_or": "2862",
+                    "gen_cr": "10244",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "1303",
+                    "gen_cr": "6248",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "2714",
+                    "gen_cr": "9740",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electronics & Communication Engineeringg",
+                    "gen_or": "3958",
+                    "gen_cr": "10636",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "6062",
+                    "gen_cr": "12860",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                }
+            ],
+            "static-collegedunia.com/public/college_data/images/appImage/26008_JADAV_New.jpg",
+            "https://www.google.co.in/maps/place/Jadavpur+University+Salt+Lake+Campus"
+        ]
+    ]
+}

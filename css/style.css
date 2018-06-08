@@ -1,0 +1,24 @@
+/* RESET */
+* { margin: 0px; padding: 0px; }
+
+/* Cards styling */
+.cards {
+    height: 600px;
+    width: 50%;
+    left: 50%;
+    transform: translate(50%);
+}
+.card {
+    width: 400px;
+    height: auto;
+    box-shadow: 0px 2px 18px 0px grey;
+    border-radius: 4px;
+    padding: 30px;
+    margin: 10px;
+}
+
+.card img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
