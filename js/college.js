@@ -93,7 +93,7 @@ form.addEventListener('submit', (e) => {
                     break;
 
             }
-            if(z == 1) break;
+            if(z == 1) { break; }
 
         }
         if(z == 0 && inputCollege.value !== '') {
