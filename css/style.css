@@ -4,6 +4,7 @@
 /* Form styling */
 #form {
     position: fixed;
+    z-index: 999;
 }
 
 /* Cards styling */
