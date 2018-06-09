@@ -1,7 +1,29 @@
 const form = document.querySelector(`form`);
 const inputRank = document.querySelector(`input[type='number']`);
-const inputCollege = document.querySelector(`input[type='text']`);
 const cards = document.querySelector('.cards');
+const collegeOption = document.querySelector('#form select');
+
+
+//Getting the names of the colleges asynchronously    
+axios.get('colleges.json').then((res) => {
+
+    let colArray = res.data.colleges;
+    
+    for(i = 0; i < colArray.length; i++) {
+        
+        let collegeNameArray = [];
+        collegeNameArray.push(colArray[i][0]);
+
+        let colleges = collegeNameArray.map((item) => {
+            return `<option>${item}</option>`;
+        });
+
+        collegeOption.innerHTML += colleges;
+
+    }
+
+});
+
 
 form.addEventListener('submit', (e) => {
 
@@ -32,10 +54,8 @@ form.addEventListener('submit', (e) => {
                     if(parseInt(colArray[i][j][k].gen_cr) >= inputRank.value) {
 
                         if(t == 0) {
-
                             var clgName = colArray[i][0];
                             t++;
-
                         }
  
                         branchArray.push(colArray[i][j][k].branch);
@@ -46,8 +66,9 @@ form.addEventListener('submit', (e) => {
                 }
 
             }
-            
-            if(t == 1 && inputCollege.value == '') {
+
+
+            if(t == 1 && collegeOption.value == 'select college') {
 
                 totalClg++;
 
@@ -70,7 +91,7 @@ form.addEventListener('submit', (e) => {
                     </div>`;
 
             }
-            else if(t == 1 && inputCollege.value == clgName){
+            else if(t == 1 && collegeOption.value == clgName){
 
                 let branches = branchArray.map((item) => {
                     return `<li class='branch'>${item}</li>`;
@@ -96,12 +117,12 @@ form.addEventListener('submit', (e) => {
             if(z == 1) { break; }
 
         }
-        if(z == 0 && inputCollege.value !== '') {
+        if(z == 0 && collegeOption.value !== 'select college') {
             alert('No colleges found according to your search entry');
         }
-        else if(results == 0 && inputCollege.value == '') { 
+        else if(results == 0 && collegeOption.value == 'select college') { 
             alert(`No colleges available with your rank`);  
-        }else if(inputCollege.value == ''){ 
+        }else if(collegeOption.value == 'select college'){ 
             alert(`We found ${totalClg} result(s) pertaining to your rank`);
         }
             
