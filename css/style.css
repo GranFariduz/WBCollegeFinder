@@ -13,6 +13,7 @@
     left: 50%;
     position: absolute;
     transform: translate(-50%);
+    margin: 20px;
 }
 .card {
     width: auto;

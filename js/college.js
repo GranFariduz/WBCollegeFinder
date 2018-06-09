@@ -1,17 +1,18 @@
 const form = document.querySelector(`form`);
-const input = document.querySelector(`input[type='number']`);
+const inputRank = document.querySelector(`input[type='number']`);
+const inputCollege = document.querySelector(`input[type='text']`);
 const cards = document.querySelector('.cards');
 
 form.addEventListener('submit', (e) => {
 
     e.preventDefault();
 
-    if(parseInt(input.value) > 0 ) {
+    if(parseInt(inputRank.value) > 0 ) {
 
         axios.get('colleges.json').then((res) => {
                 
         let colArray = res.data.colleges;
-        input.value = parseInt(input.value);
+        inputRank.value = parseInt(inputRank.value);
         let results = 0;
 
         let totalClg = 0;
@@ -22,16 +23,19 @@ form.addEventListener('submit', (e) => {
 
             let t = 0;
             let branchArray = [];
+            var z = 0;
 
             for(j = 1; j < colArray[i].length; j++) {
 
                 for(k = 0; k < colArray[i][j].length; k++) {
 
-                    if(parseInt(colArray[i][j][k].gen_cr) >= input.value) {
+                    if(parseInt(colArray[i][j][k].gen_cr) >= inputRank.value) {
 
                         if(t == 0) {
+
                             var clgName = colArray[i][0];
                             t++;
+
                         }
  
                         branchArray.push(colArray[i][j][k].branch);
@@ -42,8 +46,8 @@ form.addEventListener('submit', (e) => {
                 }
 
             }
-
-            if(t == 1) {
+            
+            if(t == 1 && inputCollege.value == '') {
 
                 totalClg++;
 
@@ -66,11 +70,38 @@ form.addEventListener('submit', (e) => {
                     </div>`;
 
             }
+            else if(t == 1 && inputCollege.value == clgName){
+
+                let branches = branchArray.map((item) => {
+                    return `<li class='branch'>${item}</li>`;
+                }).join('');
+
+                cards.innerHTML += `
+                    <div class="card">
+                        <span class="clg-name"> ${clgName} </span>
+                        <div class="clg-branches">
+                            <ol class='branchList'>
+                               ${branches}
+                            </ol>
+                        </div>
+                        <img src="https://${colArray[i][2]}" height="300" width="200">
+                        <a href='${colArray[i][3]}' target='_blank'> 
+                            <img src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678111-map-marker-512.png" height="300" width="200">
+                        </a>
+                    </div>`;
+                    z = 1;
+                    break;
+
+            }
+            if(z == 1) break;
 
         }
-        if(results == 0) { 
+        if(z == 0 && inputCollege.value !== '') {
+            alert('No colleges found according to your search entry');
+        }
+        else if(results == 0 && inputCollege.value == '') { 
             alert(`No colleges available with your rank`);  
-        } else { 
+        }else if(inputCollege.value == ''){ 
             alert(`We found ${totalClg} result(s) pertaining to your rank`);
         }
             
