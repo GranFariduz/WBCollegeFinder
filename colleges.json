@@ -200,7 +200,7 @@
                     "obc_cr": "0"
                 },
                 {
-                    "branch": "Electronics & Communication Engineeringg",
+                    "branch": "Electronics & Communication Engineering",
                     "gen_or": "3958",
                     "gen_cr": "10636",
                     "obc_or": "0",
@@ -216,6 +216,69 @@
             ],
             "static-collegedunia.com/public/college_data/images/appImage/26008_JADAV_New.jpg",
             "https://www.google.co.in/maps/place/University+Institute+of+Technology/@23.2572818,87.8468376,15z/data=!4m2!3m1!1s0x0:0x37a42f6b23df16cd?sa=X&ved=0ahUKEwjVlpbkv8TbAhXLXSsKHUmoB1UQ_BII3QEwCg"
+        ],
+        [
+            "University Of Calcutta",
+            [
+                {
+                    "branch": "Chemical Engineering",
+                    "gen_or": "1423",
+                    "gen_cr": "2499",
+                    "obc_or": "7419",
+                    "obc_cr": "7419"
+                },
+                {
+                    "branch": "Chemical Technology",
+                    "gen_or": "2584",
+                    "gen_cr": "4796",
+                    "obc_or": "8838",
+                    "obc_cr": "8838"
+                },
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "653",
+                    "gen_cr": "1273",
+                    "obc_or": "5107",
+                    "obc_cr": "5107"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "892",
+                    "gen_cr": "1661",
+                    "obc_or": "4005",
+                    "obc_cr": "4005"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "1305",
+                    "gen_cr": "1856",
+                    "obc_or": "8297",
+                    "obc_cr": "8297"
+                },
+                {
+                    "branch": "Instrumentation Engineering",
+                    "gen_or": "1821",
+                    "gen_cr": "2550",
+                    "obc_or": "12449",
+                    "obc_cr": "12449"
+                },
+                {
+                    "branch": "Optics & Optoelectronics",
+                    "gen_or": "2597",
+                    "gen_cr": "3794",
+                    "obc_or": "8173",
+                    "obc_cr": "8173"
+                },
+                {
+                    "branch": "Polymer Science & Technology",
+                    "gen_or": "2187",
+                    "gen_cr": "5034",
+                    "obc_or": "13358",
+                    "obc_cr": "13358"
+                }
+            ],
+            "static-collegedunia.com/public/college_data/images/appImage/26008_JADAV_New.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
         ]
     ]
 }
