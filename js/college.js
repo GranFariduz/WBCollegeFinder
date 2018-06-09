@@ -84,7 +84,7 @@ form.addEventListener('submit', (e) => {
                                ${branches}
                             </ol>
                         </div>
-                        <img src="https://${colArray[i][2]}" height="300" width="200">
+                        <img alt="${colArray[i][0]}" src="https://${colArray[i][2]}" height="300" width="200">
                         <a href='${colArray[i][3]}' target='_blank'> 
                             <img src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678111-map-marker-512.png" height="300" width="200">
                         </a>
@@ -105,7 +105,7 @@ form.addEventListener('submit', (e) => {
                                ${branches}
                             </ol>
                         </div>
-                        <img src="https://${colArray[i][2]}" height="300" width="200">
+                        <img alt="${colArray[i][0]}" src="https://${colArray[i][2]}" height="300" width="200">
                         <a href='${colArray[i][3]}' target='_blank'> 
                             <img src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678111-map-marker-512.png" height="300" width="200">
                         </a>
