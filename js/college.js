@@ -7,20 +7,25 @@ const collegeOption = document.querySelector('#form select');
 //Getting the names of the colleges asynchronously    
 axios.get('colleges.json').then((res) => {
 
-    let colArray = res.data.colleges;
+    const colArray = res.data.colleges;
+    let collegeNameArray;
+    let colleges;
     
     for(i = 0; i < colArray.length; i++) {
         
-        let collegeNameArray = [];
+        collegeNameArray = [];
         collegeNameArray.push(colArray[i][0]);
 
-        let colleges = collegeNameArray.map((item) => {
+        colleges = collegeNameArray.map((item) => {
             return `<option>${item}</option>`;
         });
 
         collegeOption.innerHTML += colleges;
 
     }
+
+    //Chosen jquery plugin for easy autocomplete
+    $('.chosen-select').chosen();
 
 });
 

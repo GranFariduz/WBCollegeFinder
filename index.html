@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- Chosen css -->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.6/chosen.min.css'/>
     <!-- Custom CSS -->
     <link rel="stylesheet" href="./css/style.css">
     <title>WBCollegeFinder</title>
@@ -12,8 +14,9 @@
 
     <form id="form">
         <input type="number" placeholder="Enter your GMR" autofocus required>
-        <select>
+        <select class="chosen-select">
             <option>select college</option>
+            <!-- <input id="collegeInput" type="text"> -->
         </select>
         <input type="submit" value="GO">
     </form>
@@ -23,6 +26,8 @@
     </div>
 
     <script src='https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.6/chosen.jquery.min.js'></script>
     <script src="./js/college.js"></script>
 
 </body>
