@@ -279,6 +279,615 @@
             ],
             "www.caluniv.ac.in/images/map_right_pic.jpg",
             "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "University Of Kalyani, Science Instrumentation Centre",
+            [
+                {
+                    "branch": "Applied Electronics & Instrumentation Engineering",
+                    "gen_or": "1234",
+                    "gen_cr": "5161",
+                    "obc_or": "13079",
+                    "obc_cr": "18209"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "1058",
+                    "gen_cr": "3678",
+                    "obc_or": "12122",
+                    "obc_cr": "12419"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Uttar Banga Krishi Viswa Vidyalaya",
+            [
+                {
+                    "branch": "Agricultural Engineering",
+                    "gen_or": "5187",
+                    "gen_cr": "7687",
+                    "obc_or": "8164",
+                    "obc_cr": "9232"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "West Bengal University Of Animal & Fishery Sciences",
+            [
+                {
+                    "branch": "Dairy Technology",
+                    "gen_or": "5216",
+                    "gen_cr": "12952",
+                    "obc_or": "14781",
+                    "obc_cr": "21140"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Cooch Behar Government Engineering College, Cooch Behar",
+            [
+                {
+                    "branch": "Civil Engineering",
+                    "gen_or": "2765",
+                    "gen_cr": "14382",
+                    "obc_or": "16572",
+                    "obc_cr": "23216"
+                },
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "4758",
+                    "gen_cr": "11028",
+                    "obc_or": "11596",
+                    "obc_cr": "15779"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "6733",
+                    "gen_cr": "13143",
+                    "obc_or": "13500",
+                    "obc_cr": "24945"
+                },
+                {
+                    "branch": "Electronics & Communication Engineering",
+                    "gen_or": "6197",
+                    "gen_cr": "14387",
+                    "obc_or": "23029",
+                    "obc_cr": "25831"
+                },
+                {
+                    "branch": "Mechanical Engineering",
+                    "gen_or": "4137",
+                    "gen_cr": "14403",
+                    "obc_or": "14684",
+                    "obc_cr": "24219"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Goverment College Of Engineering And Leather Technology, Kolkata",
+            [
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "2173",
+                    "gen_cr": "4857",
+                    "obc_or": "6284",
+                    "obc_cr": "8174"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "3634",
+                    "gen_cr": "8822",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Leather Technology",
+                    "gen_or": "5726",
+                    "gen_cr": "17132",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Govt. College Of Engg. & Textile Technology, Berhampore",
+            [
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "4069",
+                    "gen_cr": "10299",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "4275",
+                    "gen_cr": "8744",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Mechanical Engineering",
+                    "gen_or": "4698",
+                    "gen_cr": "10858",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Textile Technology",
+                    "gen_or": "8254",
+                    "gen_cr": "16398",
+                    "obc_or": "17134",
+                    "obc_cr": "26509"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Govt. College Of Engineering & Ceramic Technology, Kolkata",
+            [
+                {
+                    "branch": "Ceramic Enginering And Technology",
+                    "gen_or": "3849",
+                    "gen_cr": "10919",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "2443",
+                    "gen_cr": "5146",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "5374",
+                    "gen_cr": "8758",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Govt. College Of Engineering & Textile Technology, Serampore",
+            [
+                {
+                    "branch": "Apparel & Production & Management",
+                    "gen_or": "11156",
+                    "gen_cr": "19129",
+                    "obc_or": "23708",
+                    "obc_cr": "31067"
+                },
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "2729",
+                    "gen_cr": "6386",
+                    "obc_or": "6613",
+                    "obc_cr": "10068"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "4812",
+                    "gen_cr": "11064",
+                    "obc_or": "12679",
+                    "obc_cr": "15924"
+                },
+                {
+                    "branch": "Textile Technology",
+                    "gen_or": "5597",
+                    "gen_cr": "14461",
+                    "obc_or": "14693",
+                    "obc_cr": "27165"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Institute Of Pharmacy, Jalpaiguri",
+            [
+                {
+                    "branch": "B.Pharm/Pharmaceutical Technology",
+                    "gen_or": "612",
+                    "gen_cr": "4140",
+                    "obc_or": "4897",
+                    "obc_cr": "6646"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Jalpaiguri Goverment Engineering College,Jalpaiguri",
+            [
+                {
+                    "branch": "Civil Engineering",
+                    "gen_or": "1829",
+                    "gen_cr": "7250",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "1023",
+                    "gen_cr": "4791",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "1484",
+                    "gen_cr": "5577",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electronics & Communication Engineering",
+                    "gen_or": "3337",
+                    "gen_cr": "5891",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "4613",
+                    "gen_cr": "8578",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Mechanical Engineering",
+                    "gen_or": "2260",
+                    "gen_cr": "5971",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Kalyani Goverment Engineering College, Kalyani, Nadia",
+            [
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "235",
+                    "gen_cr": "2077",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "625",
+                    "gen_cr": "3099",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electronics & Communication Engineering",
+                    "gen_or": "752",
+                    "gen_cr": "2846",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "2216",
+                    "gen_cr": "4470",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Mechanical Engineering",
+                    "gen_or": "879",
+                    "gen_cr": "3271",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Purulia Government Engineering College, Purulia",
+            [
+                {
+                    "branch": "Civil Engineering",
+                    "gen_or": "6172",
+                    "gen_cr": "15184",
+                    "obc_or": "17370",
+                    "obc_cr": "28105"
+                },
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "5779",
+                    "gen_cr": "11418",
+                    "obc_or": "13308",
+                    "obc_cr": "16229"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "5935",
+                    "gen_cr": "13134",
+                    "obc_or": "15613",
+                    "obc_cr": "20721"
+                },
+                {
+                    "branch": "Electronics & Communication Engineering",
+                    "gen_or": "5903",
+                    "gen_cr": "13683",
+                    "obc_or": "18515",
+                    "obc_cr": "28489"
+                },
+                {
+                    "branch": "Mechanical Engineering",
+                    "gen_or": "4854",
+                    "gen_cr": "14707",
+                    "obc_or": "18152",
+                    "obc_cr": "24687"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Abacus Institute Of Engineering & Management, Mogra, Hooghly",
+            [
+                {
+                    "branch": "Civil Engineering",
+                    "gen_or": "23093",
+                    "gen_cr": "88262",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "7549",
+                    "gen_cr": "100160",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "11666",
+                    "gen_cr": "93878",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electronics & Communication Engineering",
+                    "gen_or": "15668",
+                    "gen_cr": "81364",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Mechanical Engineering",
+                    "gen_or": "11791",
+                    "gen_cr": "98838",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Kalyani Goverment Engineering College, Kalyani, Nadia",
+            [
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "235",
+                    "gen_cr": "2077",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "625",
+                    "gen_cr": "3099",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electronics & Communication Engineering",
+                    "gen_or": "752",
+                    "gen_cr": "2846",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "2216",
+                    "gen_cr": "4470",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Mechanical Engineering",
+                    "gen_or": "879",
+                    "gen_cr": "3271",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Academy Of Technology, Adisaptagram, Hooghly",
+            [
+                {
+                    "branch": "Applied Electronics & Instrumentation Engineering",
+                    "gen_or": "11201",
+                    "gen_cr": "93970",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "5794",
+                    "gen_cr": "25421",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "12482",
+                    "gen_cr": "53327",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electronics & Communication Engineering",
+                    "gen_or": "8988",
+                    "gen_cr": "36578",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "19747",
+                    "gen_cr": "50255",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Mechanical Engineering",
+                    "gen_or": "12007",
+                    "gen_cr": "98279",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Adamas University - Self Financing Private University",
+            [
+                {
+                    "branch": "B.Pharm/Pharmaceutical Technology",
+                    "gen_or": "7260",
+                    "gen_cr": "55597",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Biotechnology",
+                    "gen_or": "27685",
+                    "gen_cr": "81241",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Civil Engineering",
+                    "gen_or": "20309",
+                    "gen_cr": "91585",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "26005",
+                    "gen_cr": "89529",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "36761",
+                    "gen_cr": "95862",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electronics & Communication Engineering",
+                    "gen_or": "46200",
+                    "gen_cr": "78948",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Mechanical Engineering",
+                    "gen_or": "34571",
+                    "gen_cr": "34571",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Aryabhatta Institute Of Engineering & Management, Panagar, Burdwan",
+            [
+                {
+                    "branch": "Civil Engineering",
+                    "gen_or": "74070",
+                    "gen_cr": "93582",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "38075",
+                    "gen_cr": "86562",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electrical & Electronics Engineering",
+                    "gen_or": "24710",
+                    "gen_cr": "68105",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "34507",
+                    "gen_cr": "96517",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electronics & Communication Engineering",
+                    "gen_or": "20052",
+                    "gen_cr": "96419",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "44392",
+                    "gen_cr": "98298",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Mechanical Engineering",
+                    "gen_or": "43918",
+                    "gen_cr": "89068",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
         ]
     ]
 }
