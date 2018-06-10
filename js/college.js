@@ -118,7 +118,7 @@ form.addEventListener('submit', (e) => {
 
         }
         if(z == 0 && collegeOption.value !== 'select college') {
-            alert('No colleges found according to your search entry');
+            alert('This college does not have any branch available according to your rank');
         }
         else if(results == 0 && collegeOption.value == 'select college') { 
             alert(`No colleges available with your rank`);  
