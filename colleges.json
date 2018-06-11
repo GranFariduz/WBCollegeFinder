@@ -1392,6 +1392,55 @@
             ],
             "www.caluniv.ac.in/images/map_right_pic.jpg",
             "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
+        ],
+        [
+            "Calcutta Institute Of Engineering & Management, Tollygunge, Kolkata",
+            [
+                {
+                    "branch": "Civil Engineering",
+                    "gen_or": "17341",
+                    "gen_cr": "88691",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Computer Science & Engineering",
+                    "gen_or": "6828",
+                    "gen_cr": "39776",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electrical Engineering",
+                    "gen_or": "24119",
+                    "gen_cr": "100338",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Electronics & Communication Engineering",
+                    "gen_or": "23018",
+                    "gen_cr": "78691",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Information Technology",
+                    "gen_or": "24262",
+                    "gen_cr": "100343",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                },
+                {
+                    "branch": "Instrumentation And Control Engineering",
+                    "gen_or": "30202",
+                    "gen_cr": "74125",
+                    "obc_or": "0",
+                    "obc_cr": "0"
+                }
+            ],
+            "www.caluniv.ac.in/images/map_right_pic.jpg",
+            "https://www.google.co.in/maps/place/University+of+Calcutta/@22.5752469,88.3627129,15z/data=!4m2!3m1!1s0x0:0x55c32ac6ac01553d?sa=X&ved=0ahUKEwjd-_mjzsfbAhWKCMAKHc0_A_MQ_BIIrwEwCg"
         ]
     ]
 }
