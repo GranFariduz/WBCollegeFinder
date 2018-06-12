@@ -1,6 +1,9 @@
 /* RESET */
 * { margin: 0px; padding: 0px; }
 
+/* FONTS */
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
 /* Form styling */
 #form {
     position: fixed;
@@ -16,17 +19,84 @@
     transform: translate(-50%);
     margin: 20px;
 }
+
+/* Trial Card */
 .card {
-    width: auto;
-    height: auto;
-    box-shadow: 0px 2px 18px 0px grey;
+    margin-top: 60px;
+    height: 400px;
+    width: 550px;
+    box-shadow: 0px 0px 10px 0px grey;
     border-radius: 4px;
-    padding: 30px;
-    margin: 10px;
+    position: relative;
 }
 
-.card img {
-    height: 100px;
-    width: 100px;
-    border-radius: 50%;
+/* Head styling */
+.head {
+    height: auto;
+    width: 100%;
+    background-color: #8465B5;
+    position: absolute;
+    text-align: left;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
+
+.head h2 {
+    font-family: 'Montserrat';
+    font-size: 14px;
+    color: white;
+    margin: 20px;
+    display: inline-block;
+}
+
+.head span {
+    position: absolute;
+    right: -50px;
+    top: 15px;
+}
+
+.head span .fas{
+    color: #8465B5;
+    font-size: 30px;
+    cursor: pointer;
+    transition: 0.2s cubic-bezier(0.77, 0, 0.175, 1);
+    animation: marker 5s alternate cubic-bezier(0.445, 0.05, 0.55, 0.95) infinite;
+    transform-style: preserve-3d;
+    perspective: 400px;
+}
+
+/* Keyframes for marker animation */
+@keyframes marker {
+    from { transform: rotateY(0deg) }
+    to { transform: rotateY(360deg) }
+}
+
+.head span .fas:hover {
+    color: rgb(89, 60, 134);
+}
+
+/* Branches styling */
+.branches {
+    position: absolute;
+    padding: 10px;
+    height: 260px;
+    width: 400px;
+    left: 50%;
+    border-radius: 4px;
+    box-shadow: 0px 0px 10px 0px grey;
+    background-color: rgba(255, 255, 255, 0.801);
+    top: 55%;
+    transform: translate(-50%, -50%);
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.branches ul {
+    font-family: 'Montserrat';
+    color: #8465B5;
+    font-size: 13px;
+    margin: 15px 0px 0px 15px;
+}
+.branches ul li {
+    margin: 5px;
 }
