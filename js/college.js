@@ -73,7 +73,7 @@ form.addEventListener('submit', (e) => {
             }
 
 
-            if(t == 1 && collegeOption.value == 'select college') {
+            if(t == 1 && collegeOption.value == 'All') {
 
                 totalClg++;
 
@@ -128,12 +128,12 @@ form.addEventListener('submit', (e) => {
             if(z == 1) { break; }
 
         }
-        if(z == 0 && collegeOption.value !== 'select college') {
+        if(z == 0 && collegeOption.value !== 'All') {
             alert('This college does not have any branch available according to your rank');
         }
-        else if(results == 0 && collegeOption.value == 'select college') { 
+        else if(results == 0 && collegeOption.value == 'All') { 
             alert(`No colleges available with your rank`);  
-        }else if(collegeOption.value == 'select college'){ 
+        }else if(collegeOption.value == 'All'){ 
             alert(`We found ${totalClg} result(s) pertaining to your rank`);
         }
             

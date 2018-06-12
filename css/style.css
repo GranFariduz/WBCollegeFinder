@@ -4,6 +4,9 @@
 /* FONTS */
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
+/* COLORS */
+:root { --purple: #8465B5; }
+
 /* Form styling */
 #form {
     position: fixed;
@@ -20,7 +23,7 @@
     margin: 20px;
 }
 
-/* Trial Card */
+/* card styling */
 .card {
     margin-top: 60px;
     height: 400px;
@@ -34,7 +37,7 @@
 .head {
     height: auto;
     width: 100%;
-    background-color: #8465B5;
+    background-color: var(--purple);
     position: absolute;
     text-align: left;
     border-top-right-radius: 3px;
@@ -56,7 +59,7 @@
 }
 
 .head span .fas{
-    color: #8465B5;
+    color: var(--purple);
     font-size: 30px;
     cursor: pointer;
     transition: 0.2s cubic-bezier(0.77, 0, 0.175, 1);
@@ -85,7 +88,7 @@
     border-radius: 4px;
     box-shadow: 0px 0px 10px 0px grey;
     background-color: rgba(255, 255, 255, 0.801);
-    top: 55%;
+    top: 57%;
     transform: translate(-50%, -50%);
     overflow-y: scroll;
     overflow-x: hidden;
@@ -93,7 +96,7 @@
 
 .branches ul {
     font-family: 'Montserrat';
-    color: #8465B5;
+    color: var(--purple);
     font-size: 13px;
     margin: 15px 0px 0px 15px;
 }
