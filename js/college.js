@@ -90,7 +90,11 @@ form.addEventListener('submit', (e) => {
                 >
                     <div class="head">
                         <h2>${clgName}</h2>
-                        <span><a target='_blank' href='${colArray[i][3]}'><i title='Click to view location' class="fas fa-map-marker-alt"></i></a></span>
+                        <span>
+                            <a target='_blank' href='${colArray[i][3]}'>
+                                <i title='Click to view location' class="fas fa-map-marker-alt"></i>
+                            </a>
+                        </span>
                     </div>
                     <div class="branches">
                         <ul>
@@ -114,7 +118,11 @@ form.addEventListener('submit', (e) => {
                 >
                     <div class="head">
                         <h2>${clgName}</h2>
-                        <span><a target='_blank' href='${colArray[i][3]}'><i title='Click to view location' class="fas fa-map-marker-alt"></i></a></span>
+                        <span>
+                            <a target='_blank' href='${colArray[i][3]}'>
+                                <i title='Click to view location' class="fas fa-map-marker-alt"></i>
+                            </a>
+                        </span>
                     </div>
                     <div class="branches">
                         <ul>
