@@ -45,6 +45,7 @@ form.addEventListener('submit', (e) => {
         let totalClg = 0;
 
         cards.innerHTML = '';
+        window.scrollTo(0, 0);
         
         for(i = 0; i < colArray.length; i++) {
 
